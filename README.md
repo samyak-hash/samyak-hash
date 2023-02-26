@@ -13,7 +13,7 @@
   - [Introduced Kafka service for streaming data from one database to another , reducing redundant tasks by 40% ]
   - [Designed customizable dashboards as per client’s requirement, increasing client productivity by 70%]
 
-- <b>Software Development Intern | Atharva Solutions Pvt Ltd </b>
+- <b>Software Development Intern | Walchand college of Engineering </b>
   - [Automated Spot round application process for college authorities and students decreasing timeline by 2weeks]
   - [Generated automated meritlist by assessing student data to enhance existing system.]
   
