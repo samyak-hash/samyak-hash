@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samyak! <br/><a href="https://github.com/samyak-hash">Programmer</a>, <a href="https://www.linkedin.com/in/samyak-kabure/">Graduate Student</a>
+<h1>Hi, I'm Samyak! <br/><a href="https://github.com/samyak-hash">Senior Software Engineer</a>, <a href="https://www.linkedin.com/in/samyak-kabure/"></a>
 
 <h2> Work Experience: </h2>
 
