@@ -2,20 +2,23 @@
 
 <h2> Work Experience: </h2>
 
-- <b>Student Research Assistant | Wayne State University </b>
-  - [Developed an entire Web Application used by approximately 25,000 users increasing accessibility by 20%]
-  - [Created a parsing solution to derive meaningful insights from the data-set to reduce manual parsing time by 80% ]
-  - [Maintained the social media accounts of the organization increasing the reach by 40% ]
+- <b>Senior Software Engineer | Wayne State University </b>
+  - [Developing and maintaining scalable full-stack web applications using React, FastAPI, and PostgreSQL to support academic and research operations.]
+  - [Built RESTful APIs and data ingestion pipelines to unify and automate data across multiple departments, improving dashboard performance and data consistency. ]
+  - [Designed and implemented ETL workflows using Python (Pandas, AWS Glue, S3) for migrating on-prem datasets to the cloud.]
   
 
-- <b>Software Engineer Intern | Atharva Solutions Pvt Ltd </b>
-  - [Led a team of 5 interns to develop the frontend of the performance review system for 500 employees]
-  - [Introduced Kafka service for streaming data from one database to another , reducing redundant tasks by 40% ]
-  - [Designed customizable dashboards as per client’s requirement, increasing client productivity by 70%]
+- <b>Data Engineer | Paramount </b>
+  - [ Built and automated ETL pipelines using AWS Glue, Lambda, and Redshift to process large-scale streaming and audience data for real-time analytics.]
+  - [Developed Python-based data transformation models for JSON, CSV, and Parquet files, improving data accuracy and consistency across systems.]
+  - [ Integrated AWS S3, Kinesis, and Step Functions for event-driven data ingestion and workflow automation.]
 
-- <b>Software Development Intern | Walchand college of Engineering </b>
-  - [Automated Spot round application process for college authorities and students decreasing timeline by 2weeks]
-  - [Generated automated meritlist by assessing student data to enhance existing system.]
+- <b>Python Developer | Brudite Pvt Ltd </b>
+  - [Developed and deployed Python-based backend systems using Flask and FastAPI with a focus on modular REST API design and optimized database performance.]
+
+  - [Built and automated ETL workflows with Python, SQLAlchemy, and AWS Lambda to process large datasets and generate analytical reports.]
+
+  - [Integrated Redis caching and third-party APIs to enhance performance and scalability across client platforms.]
   
 
 
